@@ -46,7 +46,7 @@ header{
 li a{
     text-decoration: none;
     color: white;
-    font-size: 1.6em;
+    font-size: 1em;
     padding: 2vw;
 }
 
@@ -65,7 +65,7 @@ li a{
     }
     
     li a {
-        padding: 1.6em;
+        padding: 1em;
     }
 }
 
