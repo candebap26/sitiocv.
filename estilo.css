@@ -23,7 +23,6 @@ header{
 }
 
 .ulrosa{
-    width: 100%;
     display: flex;
     justify-content: space-around;
     align-content: center;
@@ -78,7 +77,6 @@ li a{
     margin: 2em;
     margin-right: auto;
     margin-left: auto;
-    width: fit-content;
     background-color: #5B8F8F;
     padding: 1em;
     border-radius: 2em;
@@ -205,7 +203,7 @@ a{
     }
     
     #textoseparado {
-        font-size: 1.7em;
+        font-size: 1em;
     }
     
     #h3 {
